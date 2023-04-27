@@ -19,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valadao-davi&show_icons=true&theme=dracula&locale=en" alt="valadao-davi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valadao-davi&theme=dark" alt="valadao-davi" /></p>
