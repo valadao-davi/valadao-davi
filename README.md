@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Davi Silva Valadão</h1>
-<h3 align="center">Currently learning programming front-end and back-end on Senai Osasco :D</h3>
+<h3 align="center">Currently learning front-end and back-end programming at Senai Osasco :D !</h3>
 
-- 🌱 I’m currently learning **Java, JavaScript, HTML, CSS**
+- 🌱 I’m currently learning: **Java, JavaScript, HTML, CSS**
 
-- 📫 How to reach me **davinovo.valadao@gmail.com**
+- 📫 How to reach me: **davinovo.valadao@gmail.com**
 
-- ⚡ Fun fact **I like guitars and music! :D**
+- ⚡ Fun fact: **I like guitars and music! :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,3 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valadao-davi&show_icons=true&theme=dracula&locale=en" alt="valadao-davi" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valadao-davi&theme=dark" alt="valadao-davi" /></p>
