@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on SENAI/Fatec<br>🤝 I’m looking for help with backend applications<br>🌱 I’m currently learning Java, Spring and Angular<br>💬 Ask me everything about rock!<br>⚡ Fun fact: I love guitars :D
+🔭 I’m currently studying on Fatec<br>🤝 I’m looking for help with backend applications<br>🌱 I’m currently learning Java and React<br>💬 Ask me everything about rock!<br>⚡ Fun fact: I love guitars :D
 
 
 ## 🌐 Socials:
